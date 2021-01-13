@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gi &#8211; D&#039;s Sport Store</title>
+	<atom:link href="https://dnurudeen.github.io/ds_sportstore/product-category/gi-store/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dnurudeen.github.io/ds_sportstore</link>
+	<description>Reliability is guaranteed</description>
+	<lastBuildDate>Sat, 02 Jan 2021 23:56:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://dnurudeen.github.io/ds_sportstore/wp-content/uploads/2021/01/cropped-IMG-20210102-WA0002-scaled-3-32x32.jpg</url>
+	<title>Gi &#8211; D&#039;s Sport Store</title>
+	<link>https://dnurudeen.github.io/ds_sportstore</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>White colored Gi Unisex</title>
+		<link>https://dnurudeen.github.io/ds_sportstore/product/white-colored-gi-unisex/</link>
+					<comments>https://dnurudeen.github.io/ds_sportstore/product/white-colored-gi-unisex/#respond</comments>
+		
+		<dc:creator><![CDATA[deeneysict]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 23:13:55 +0000</pubDate>
+				<guid isPermaLink="false">https://dnurudeen.github.io/ds_sportstore/?post_type=product&#038;p=21</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://dnurudeen.github.io/ds_sportstore/product/white-colored-gi-unisex/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Complete Gi color(white)</title>
+		<link>https://dnurudeen.github.io/ds_sportstore/product/complete-gi-colorwhite/</link>
+					<comments>https://dnurudeen.github.io/ds_sportstore/product/complete-gi-colorwhite/#respond</comments>
+		
+		<dc:creator><![CDATA[deeneysict]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 23:08:53 +0000</pubDate>
+				<guid isPermaLink="false">https://dnurudeen.github.io/ds_sportstore/?post_type=product&#038;p=20</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://dnurudeen.github.io/ds_sportstore/product/complete-gi-colorwhite/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
